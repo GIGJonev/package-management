@@ -17,3 +17,5 @@ echo "export M2_HOME=/opt/maven" >> ~/.bash_profile
 echo "export PATH=$PATH:$M2_HOME/bin" >> ~/.bash_profile
 source ~/.bashrc
 mvn -version
+
+
